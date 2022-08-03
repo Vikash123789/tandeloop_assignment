@@ -21,6 +21,7 @@ function generate(input) {
     }
     let arr = []
     while (i <= input) {
+    //Push the Value of j in arr
         arr.push(j)
         j = j + 2
         i++
