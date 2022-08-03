@@ -31,13 +31,13 @@ class Calculator {
 let calculator = new Calculator()
 
 //Using Calculator Class i am Calling Addition function for add two number
-calculator.Addition(2,3) //Expected Output -  5
+calculator.Addition(2, 3) //Expected Output -  5
 
 //Using Calculator Class i am Calling Subtraction function for Subtract two number
-calculator.Subtraction(10,5) //Expected Output -  5
+calculator.Subtraction(10, 5) //Expected Output -  5
 
 //Using Calculator Class i am Calling Multiplication function for multiply two number
-calculator.Multiplication(9,3) //Expected Output -  27
+calculator.Multiplication(9, 3) //Expected Output -  27
 
 //Using Calculator Class i am Calling Division function for Divide two number
-calculator.Division(6,2) //Expected Output -  3
+calculator.Division(6, 2) //Expected Output -  3

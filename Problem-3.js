@@ -10,7 +10,7 @@
          .
          .
         7) input a = x, then output : 1, 3, 5, 7, .......
-*/ 
+*/
 
 function generate(input) {
     let i = 1

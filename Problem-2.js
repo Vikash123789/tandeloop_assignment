@@ -16,7 +16,7 @@ let generate = function (input) {
     let arr = []
     //While Loop
     while (i <= input) {
-    //Push j Value on arr
+        //Push j Value on arr
         arr.push(j)
         j = j + 2
         i++

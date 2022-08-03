@@ -8,6 +8,9 @@
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 let input = [1, 2, 8, 9, 12, 46, 76, 82, 15, 20, 30]
 
+
+//let first we create a empty object for store frequency of arr element
+
 let map = {}
 
 for (let i = 1; i <= arr.length; i++) {
